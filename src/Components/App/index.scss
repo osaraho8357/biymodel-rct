@@ -1,0 +1,22 @@
+.wrap {
+  width: 1200px;
+  margin: 0 atuo;
+  background-color: black;
+  color: white;
+}
+
+.App {
+  .navbar {
+    background-color: black;
+    color: white;
+  }
+  .main {
+    background: linear-gradient(rgba(0,0,0,0.5),(rgba(0,0,0,0.7))), url('images/neural-network2.jpeg') repeat;
+    min-height: 90vh;
+    background-size: 100% 100%;
+  }
+  .footer {
+    background-color: black;
+    color: white;
+  }
+}
